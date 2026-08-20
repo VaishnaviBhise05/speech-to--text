@@ -3,7 +3,7 @@
 
 A simple Python project that converts spoken words into text using the **SpeechRecognition** library and **Google Speech Recognition API**.
 
-## 📌 Features
+##  Features
 
 - 🎙️ Captures voice input from your microphone
 - 📝 Converts speech into text
@@ -13,7 +13,7 @@ A simple Python project that converts spoken words into text using the **SpeechR
   - Unrecognized speech
   - Internet connection issues
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - SpeechRecognition
