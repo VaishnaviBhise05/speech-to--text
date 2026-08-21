@@ -71,7 +71,7 @@ You said: Hello, welcome to Speech to Text.
 - Microphone
 - Internet connection (required for Google Speech Recognition API)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
