@@ -20,7 +20,7 @@ A simple Python project that converts spoken words into text using the **SpeechR
 - PyAudio
 - Google Speech Recognition API
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 speech-to-text/
@@ -28,7 +28,7 @@ speech-to-text/
 │── README.md
 ```
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
 
