@@ -48,7 +48,7 @@ cd speech-to-text
 pip install SpeechRecognition PyAudio
 ```
 
-## ▶️ Usage
+##  Usage
 
 Run the Python script:
 
@@ -65,7 +65,7 @@ Recognizing...
 You said: Hello, welcome to Speech to Text.
 ```
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.x
 - Microphone
